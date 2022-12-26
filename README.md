@@ -3,4 +3,4 @@ Este proyecto se ha creado para la práctica de el Hook useEffect de React y el 
 El proyecto consiste en una aplicación que permite introducir una localización y obtener el tiempo meteorológico y la temperatura de esta.
 
 # Recursos 
-API : [a link] https://www.weatherapi.com/
+API : https://www.weatherapi.com/
